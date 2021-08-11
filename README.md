@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Fabrizio Antonangeli 👋</h1>
-<h3 align="center">I'm a Frontend Developer working remotely from Ho Chi Minh City, Vietnam</h3>
+<h3 align="center">I'm a Frontend Developer working remotely from Rome, Italy</h3>
 
 <br>
 
