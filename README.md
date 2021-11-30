@@ -29,5 +29,5 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fantonangeli&show_icons=true&locale=en" alt="fantonangeli" /></p>
+[![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantonangeli)](https://github.com/anuraghazra/github-readme-stats)
 
