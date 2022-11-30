@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything about Frontend Developing**
 
-- 👯 I’m looking to collaborate on **Open Source project**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 💬 Ask me about **React and Angular**
 
